@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). </br>
 
 Have waited so long to complete this :sweat: </br>
-But now finally done :happy:
+But now finally done 😄
 ## Available Scripts
 
 In the project directory, you can run:
