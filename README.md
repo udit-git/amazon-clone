@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+As learned from <a href="https://github.com/cleverprogrammers"> Clever Programmers </a> </br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). </br>
 
 Have waited so long to complete this :sweat: </br>
